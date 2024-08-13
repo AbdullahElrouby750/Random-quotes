@@ -1,0 +1,16 @@
+body{
+    background-image: url("../assets/rainy-night-tokyo_771703-14497.jpg");
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+.qoute-card{
+    background: linear-gradient(rgba(128, 128, 128, 0.405), rgba(255, 255, 255, 0.855));
+    padding: 20px;
+    font-size: large;
+    color: black;
+    border-radius: 10px;
+    box-shadow:5px 10px 15px gray;
+}
